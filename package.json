@@ -1,0 +1,15 @@
+{
+  "name": "code-to-clean",
+  "version": "0.0.1",
+  "description": "An API that fetches anime data from an third party API",
+  "main": "server.js",
+  "repository": "https://github.com/ja1code/clean-code-demo",
+  "author": "ja1code",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
